@@ -2,8 +2,7 @@
 a controller built from the carcasses of other main stream controllers
 
 # Needs
-* 2 analog sticks
-* stick buttons "L3/R3"
+* 2 analog sticks (stick buttons "L3/R3")
 * dpad
 * 4 action buttons
 * 2 shoulder buttons
@@ -11,15 +10,17 @@ a controller built from the carcasses of other main stream controllers
 * start, select, and home buttons
 
 # Wants?
-* 6? (more?) action buttons to MAP ALL THE THINGS
+* 6? (or more?) action buttons to MAP ALL THE THINGS
+* "dualsense" trigger mechanism from ps5 (digital "bottom out" button would be nice)
+* three-axis accelerometer and gyroscope - neat to know the controller angles
+
+# Interesting Ideas
+* bottom grip buttons - might be difficult to actuate but would add 2 more configurable buttons
 * camera stick could be touchpad, don't know how that would affect aiming
 * dpad could be touchpad, would give more controll over selections ingame
 * action buttons - analog might be neat, but a digital "bottom out" button would be necessary
 * shoulder buttons (analog might be neat, but a digital "bottom out" button would be necessary)
-* triggers (force feedback would be neat) (digital "bottom out" button not necessary, but would be neat)
-* "dualsense" trigger mechanism from ps5 and hall effect mechanish from xbox one, might be neat but kind of complicated
-* bottom grip buttons - might be difficult to actuate but would add 2 more configurable buttons
-* three-axis accelerometer and gyroscope - neat to know the controller angles
+* "dualsense" trigger mechanism from ps5 and hall effect mechanism from xbox one, might be neat but kind of complicated (digital "bottom out" button would be nice)
 
 # OG Xbox (discontinued, okay price)
 * 6 action buttons?
