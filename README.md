@@ -23,6 +23,7 @@ a controller built from the carcasses of other main stream controllers
 
 # OG Xbox (discontinued, okay price)
 * 6 action buttons?
+
 action buttons (ABXY and white/black)
 
 # Xbox One controller (in-production, expensive)
@@ -30,6 +31,7 @@ action buttons (ABXY and white/black)
 * analog triggers?
 * vibe motors?
 * each trigger features independent rumble motors called "Impulse Triggers"
+
 i like the overall layout of the xbox one controller, some form of analog trigger is necessary
 the vibe motors are a standard affair in basically all controllers now adays
 impulse trigger might be neat, but wouldn't work if going with the ps5 "dualsense" triggers
@@ -38,6 +40,7 @@ impulse trigger might be neat, but wouldn't work if going with the ps5 "dualsens
 * touchpads?
 * bottom grip buttons?
 * haptics?
+
 the bottom grip buttons add two more buttons for things, but i don't know how difficult they would be to actuate
 i don't really know how or where i would use the touchpads
 maybe as a right "thumbstick", i guess i don't use the dpad all that much and a touchpad there might work?
@@ -51,6 +54,7 @@ haptics appear to be soldered to the touchpads
 * touchpad?
 * voice coil actuator haptics?
 * battery?
+
 i think the force feedback of the ps5 controller triggers would be neat to have, same with a touchpad
 haptics are different from simple vibe motor, but i don't know in what ways
 a rechargable battery takes up space and in general i wouldn't use, but it might be nice to have one and the ps5 controller has a 1500? mAh battery
@@ -60,6 +64,7 @@ a rechargable battery takes up space and in general i wouldn't use, but it might
 * short joysticks?
 * infrared depth tracking sensor?
 * haptic feedback engine known as "HD Rumble"?
+
 the short joysticks of the joycons would take up less space
 plus/minus basically replace start/select but might be neat to have more buttons?
 infrared sensor might be neat, but what the heck would it be used for?
