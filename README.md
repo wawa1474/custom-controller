@@ -32,8 +32,8 @@ action buttons (ABXY and white/black)
 * vibe motors?
 * each trigger features independent rumble motors called "Impulse Triggers"
 
-i like the overall layout of the xbox one controller, some form of analog trigger is necessary\n
-the vibe motors are a standard affair in basically all controllers now adays\n
+i like the overall layout of the xbox one controller, some form of analog trigger is necessary<br/>
+the vibe motors are a standard affair in basically all controllers now adays<br/>
 impulse trigger might be neat, but wouldn't work if going with the ps5 "dualsense" triggers
 
 # Steam controller (discontinued, expensive)
@@ -41,9 +41,9 @@ impulse trigger might be neat, but wouldn't work if going with the ps5 "dualsens
 * bottom grip buttons?
 * haptics?
 
-the bottom grip buttons add two more buttons for things, but i don't know how difficult they would be to actuate\n
-i don't really know how or where i would use the touchpads\n
-maybe as a right "thumbstick", i guess i don't use the dpad all that much and a touchpad there might work?\n
+the bottom grip buttons add two more buttons for things, but i don't know how difficult they would be to actuate<br/>
+i don't really know how or where i would use the touchpads<br/>
+maybe as a right "thumbstick", i guess i don't use the dpad all that much and a touchpad there might work?<br/>
 haptics appear to be soldered to the touchpads
 
 # Playstation 2 controller (discontinued, cheapish)
@@ -55,8 +55,8 @@ haptics appear to be soldered to the touchpads
 * voice coil actuator haptics?
 * battery?
 
-i think the force feedback of the ps5 controller triggers would be neat to have, same with a touchpad\n
-haptics are different from simple vibe motor, but i don't know in what ways\n
+i think the force feedback of the ps5 controller triggers would be neat to have, same with a touchpad<br/>
+haptics are different from simple vibe motor, but i don't know in what ways<br/>
 a rechargable battery takes up space and in general i wouldn't use, but it might be nice to have one and the ps5 controller has a 1500? mAh battery
 
 # Nintendo Switch controller (in-production, expensive)
@@ -65,7 +65,7 @@ a rechargable battery takes up space and in general i wouldn't use, but it might
 * infrared depth tracking sensor?
 * haptic feedback engine known as "HD Rumble"?
 
-the short joysticks of the joycons would take up less space\n
-plus/minus basically replace start/select but might be neat to have more buttons?\n
-infrared sensor might be neat, but what the heck would it be used for?\n
+the short joysticks of the joycons would take up less space<br/>
+plus/minus basically replace start/select but might be neat to have more buttons?<br/>
+infrared sensor might be neat, but what the heck would it be used for?<br/>
 haptic feedback. how is it different from xbox, ps5, and steam controllers
