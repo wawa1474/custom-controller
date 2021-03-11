@@ -72,9 +72,9 @@ infrared sensor might be neat, but what the heck would it be used for?<br/>
 haptic feedback. how is it different from xbox, ps5, and steam controllers
 
 # Mouse controller
-* a mouse for aiming!?
-[Mouse Controller V1](https://www.youtube.com/watch?v=KC9tUrWcFmw)
-[Mouse Controller V2](https://www.youtube.com/watch?v=udLHC-M1m9c)
+* a mouse for aiming!?<br/>
+[Mouse Controller V1](https://www.youtube.com/watch?v=KC9tUrWcFmw)<br/>
+[Mouse Controller V2](https://www.youtube.com/watch?v=udLHC-M1m9c)<br/>
 [Mouse Controller V3](https://www.youtube.com/watch?v=ZaaFEWz5uaQ)
 
 certainly the best of both worlds but is quite odd...
