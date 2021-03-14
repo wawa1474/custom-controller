@@ -1,5 +1,5 @@
 # custom-controller
-a controller built from the carcasses of other main stream controllers
+a frankenstein controller built from the carcasses of other more refined hardware
 
 # Needs
 * 2 analog sticks (stick buttons "L3/R3")
@@ -26,6 +26,11 @@ a controller built from the carcasses of other main stream controllers
 * 6 action buttons?
 
 action buttons (ABXY and white/black)
+
+# Xbox 360 Chatpad
+* "full" keyboard?
+
+type whatever you want without faffing with control sticks or moving hands to normal keyboard
 
 # Xbox One controller (in-production, expensive)
 * overall layout?
