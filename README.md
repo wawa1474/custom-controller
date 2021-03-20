@@ -52,6 +52,14 @@ i don't really know how or where i would use the touchpads<br/>
 maybe as a right "thumbstick", i guess i don't use the dpad all that much and a touchpad there might work?<br/>
 haptics appear to be soldered to the touchpads
 
+# projectSpigot (open source, price of components)
+* touchpads from the Steam controller
+
+[hackaday.io page](https://hackaday.io/project/177789-projectspigot-open-source-steam-controller)<br/>
+[github page](https://github.com/ryanayoung/projectSpigot)<br/>
+i'll admit i'm putting this project here more so because it points out these bad boys<br/>
+[cirque circle trackpads](https://www.cirque.com/glidepoint-circle-trackpads)
+
 # Playstation 2 controller (discontinued, cheapish)
 * analog action buttons?
 
