@@ -22,7 +22,7 @@ a frankenstein controller built from the carcasses of other more refined hardwar
 * shoulder buttons (analog might be neat, but a digital "bottom out" button would be necessary)
 * "dualsense" trigger mechanism from ps5 and hall effect mechanism from xbox one, might be neat but kind of complicated (digital "bottom out" button would be nice)
 
-# OG Xbox (discontinued, okay price)
+# OG Xbox (discontinued, varying cost)
 * 6 action buttons?
 
 action buttons (ABXY and white/black)
@@ -42,7 +42,7 @@ i like the overall layout of the xbox one controller, some form of analog trigge
 the vibe motors are a standard affair in basically all controllers now adays<br/>
 impulse trigger might be neat, but wouldn't work if going with the ps5 "dualsense" triggers
 
-# Steam controller (discontinued, expensive)
+# Steam controller (discontinued, varying cost)
 * touchpads?
 * bottom grip buttons?
 * haptics?
@@ -59,8 +59,9 @@ haptics appear to be soldered to the touchpads
 [github page](https://github.com/ryanayoung/projectSpigot)<br/>
 i'll admit i'm putting this project here more so because it points out these bad boys<br/>
 [cirque circle trackpads](https://www.cirque.com/glidepoint-circle-trackpads)
+[Arduino cirque trackpad library](https://github.com/2bndy5/CirquePinnacle)
 
-# Playstation 2 controller (discontinued, cheapish)
+# Playstation 2 controller (discontinued, varying cost)
 * analog action buttons?
 
 # Playstation 5 controller (in-production, expensive)
@@ -72,6 +73,19 @@ i'll admit i'm putting this project here more so because it points out these bad
 i think the force feedback of the ps5 controller triggers would be neat to have, same with a touchpad<br/>
 haptics are different from simple vibe motor, but i don't know in what ways<br/>
 a rechargable battery takes up space and in general i wouldn't use, but it might be nice to have one and the ps5 controller has a 1500? mAh battery
+
+# Dreamcast controller (discontinued, varying cost)
+* hall effect sensor joystick?
+* hall effect sensor triggers?
+* "expansion" ports?
+
+hall effect sensors add extra complexity due to needing ADCs but have few wearing parts<br/>
+don't know what the expansion ports would really be used for
+
+# GameCube controller (discontinued, varying cost)
+* baby c-stick?
+
+only the stick cap is different, but might make a neat "d-pad"
 
 # Nintendo Switch controller (in-production, expensive)
 * plus/minus?
